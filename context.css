@@ -40,6 +40,16 @@ h1{
     font-style: oblique;
     text-decoration: underline;
 }
+
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #2c2e2d;
+    text-align: center;
+    font-style: italic;
+    font-style: oblique;
+    text-decoration: underline;
+}
+
 .frame{
     display: block;
     margin-left: auto;
